@@ -1,4 +1,4 @@
-![logo](https://github.com/iamsabby/iamsabby/blob/main/Banner.png)
+![logo](https://github.com/iamsabby/iamsabby/blob/main/Banner1.png)
 <h1 align="center">Hi 👋, I'm Sabih Ul Hassan</h1>
 <h3 align="center">I'm a passionate Web-Dev and CS-Student</h3>
 
